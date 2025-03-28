@@ -2,10 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================
 
 I'm a student at School 21 and I'm actively studying Data Science. I'm excited to explore this field and improve my skills. I'm looking for resources, practice problems, and any other materials that can help me in my learning journey. Feel free to share any recommendations or suggestions you have. Thanks!"
+==================================================================================================================================
 
 * 🌍  I'm based in Yaroslavl
 * ✉️  You can contact me at [herousplay@gmail.com](mailto:herousplay@gmail.com)
 * 🧠  I'm learning Pytrorch, Sklearn, Numpy, Pandas
+==================================================================================================================================
 
 ### Skills
 
