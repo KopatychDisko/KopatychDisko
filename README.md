@@ -5,7 +5,7 @@ I'm a student at School 21 and I'm actively studying Data Science. I'm excited t
 
 * 🌍  I'm based in Yaroslavl
 * ✉️  You can contact me at [herousplay@gmail.com](mailto:herousplay@gmail.com)
-* 🧠  I'm learning Pytrorch, sklearn, numpy, pandas
+* 🧠  I'm learning Pytrorch, Sklearn, Numpy, Pandas
 
 ### Skills
 
