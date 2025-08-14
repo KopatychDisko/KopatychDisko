@@ -30,7 +30,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=egor-serov&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KopatychDisko&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=egor-serov&theme=tokyonight&hide_border=true" />
 </div>
 
