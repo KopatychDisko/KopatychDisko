@@ -1,26 +1,49 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Egor Serov
-==================================================================================================================================
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Egor+Serov!;AI+Agent+Developer+%26+Automation+Enthusiast;LangChain+%7C+LangGraph+%7C+n8n+%7C+FastMCP;FastAPI+%7C+Python+%7C+PostgreSQL" alt="Typing SVG" />
+</h1>
 
-I'm a student at School 21 and I'm actively studying Data Science. I'm excited to explore this field and improve my skills. I'm looking for resources, practice problems, and any other materials that can help me in my learning journey. Feel free to share any recommendations or suggestions you have. Thanks!"
+---
 
-* 🌍  I'm based in Yaroslavl
-* ✉️  You can contact me at [herousplay@gmail.com](mailto:herousplay@gmail.com)
-* 🧠  I'm learning Pytrorch, Sklearn, Numpy, Pandas
+## 🚀 About Me
+💡 I’m building **AI-powered agent systems** and **automation pipelines**.  
+🛠 My core stack is:
+- 🧠 **LangChain** + **LangGraph** — LLM-powered agents and workflows
+- 🔗 **n8n** — automation & integration
+- ⚡ **FastMCP** — Model Context Protocol integrations
+- 🌐 **FastAPI** — scalable backend
+- 🗄 **PostgreSQL / Redis** — data storage and caching
 
-### Skills
+---
 
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-181717?style=for-the-badge&logo=graph&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B8B?style=for-the-badge&logo=n8n&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=egor-serov&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=egor-serov&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🌐 Connect with Me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrowTheWissest)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herousplay@gmail.com)
+
+---
+
+<!-- Fun Footer Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/KopatychDisko" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/KopatychDisko"><img src="https://github-readme-stats.vercel.app/api?username=KopatychDisko&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KopatychDisko's GitHub stats" /></a>
